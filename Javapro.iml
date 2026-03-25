@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Date, Month, and Year Validation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DiceGame" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Student Details" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lowest Age" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
